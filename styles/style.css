@@ -82,7 +82,8 @@ ul li > a{
     margin-bottom: 20px;
 }
 .profile-pic{
-    width: 584px;
+    /* width: 584px; */
+    height: 680px;
 }
 .main{
     margin: 100px 230px;
